@@ -1,0 +1,14 @@
+C:\Users\dori-\OneDrive\Desktop\ShopPatternsLab8\bin\Debug\net10.0\ShopPatternsLab8.exe
+C:\Users\dori-\OneDrive\Desktop\ShopPatternsLab8\bin\Debug\net10.0\ShopPatternsLab8.deps.json
+C:\Users\dori-\OneDrive\Desktop\ShopPatternsLab8\bin\Debug\net10.0\ShopPatternsLab8.runtimeconfig.json
+C:\Users\dori-\OneDrive\Desktop\ShopPatternsLab8\bin\Debug\net10.0\ShopPatternsLab8.dll
+C:\Users\dori-\OneDrive\Desktop\ShopPatternsLab8\bin\Debug\net10.0\ShopPatternsLab8.pdb
+C:\Users\dori-\OneDrive\Desktop\ShopPatternsLab8\obj\Debug\net10.0\ShopPatternsLab8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dori-\OneDrive\Desktop\ShopPatternsLab8\obj\Debug\net10.0\ShopPatternsLab8.AssemblyInfoInputs.cache
+C:\Users\dori-\OneDrive\Desktop\ShopPatternsLab8\obj\Debug\net10.0\ShopPatternsLab8.AssemblyInfo.cs
+C:\Users\dori-\OneDrive\Desktop\ShopPatternsLab8\obj\Debug\net10.0\ShopPatternsLab8.csproj.CoreCompileInputs.cache
+C:\Users\dori-\OneDrive\Desktop\ShopPatternsLab8\obj\Debug\net10.0\ShopPatternsLab8.dll
+C:\Users\dori-\OneDrive\Desktop\ShopPatternsLab8\obj\Debug\net10.0\refint\ShopPatternsLab8.dll
+C:\Users\dori-\OneDrive\Desktop\ShopPatternsLab8\obj\Debug\net10.0\ShopPatternsLab8.pdb
+C:\Users\dori-\OneDrive\Desktop\ShopPatternsLab8\obj\Debug\net10.0\ShopPatternsLab8.genruntimeconfig.cache
+C:\Users\dori-\OneDrive\Desktop\ShopPatternsLab8\obj\Debug\net10.0\ref\ShopPatternsLab8.dll
